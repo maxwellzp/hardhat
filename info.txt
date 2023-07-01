@@ -1,0 +1,14 @@
+npm init -y
+
+npm install --save-dev hardhat
+
+npx hardhat
+
+npx hardhat compile
+
+npx hardhat clean
+
+npx hardhat test
+
+// Start hardhat node
+npx hardhat node
