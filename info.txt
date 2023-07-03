@@ -12,3 +12,6 @@ npx hardhat test
 
 // Start hardhat node
 npx hardhat node
+
+// Display report about test coverage
+npx hardhat coverage

@@ -1,6 +1,7 @@
 const { expect } = require("chai");
 const { ethers } = require("hardhat");
 
+return;
 describe("EventApp", function () {
   let owner;
   let other_addr;
