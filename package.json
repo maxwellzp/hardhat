@@ -12,5 +12,10 @@
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^3.0.0",
     "hardhat": "^2.16.1"
+  },
+  "dependencies": {
+    "next": "^12.1.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }
